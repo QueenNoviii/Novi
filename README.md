@@ -12,7 +12,8 @@ Simple WhatsApp Bot
 > git clone https://github.com/QueenNoviii/Novi/
 > cd QueenNoviii
 > instal npm
-```
+``` 
+> simpul. [ < nama sesi > ] (nama sesi adalah opsional)
 
  SOSMED:
  
