@@ -1,34 +1,22 @@
-# NfQ-BoT
+Vii Bot
+
 Simple WhatsApp Bot
 
-### FOR TERMUX USER
+
 ```bash
 > pkg update && pkg upgrade
 > pkg install git
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/Arya274/Arya-Bot
-> cdQueenNoviii
+> git clone https://github.com/QueenNoviii/Novi/
+> cd QueenNoviii
 > instal npm
-pesta
-> simpul. [<nama sesi>] (nama sesi adalah opsional)
 ```
 
----------
-
-### FOR WINDOWS/VPS/RDP USER
-```bash
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
-> npm install
-```
-###### Run
-```bash
-> node index.js
-```
  SOSMED:
  
- Instagram: @arpunchs
+ Instagram: @ecinvntii_
  
- Youtube: Drawl Nag
+ Youtube: Eci Novianti
+ 
