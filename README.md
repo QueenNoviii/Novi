@@ -6,12 +6,13 @@ Simple WhatsApp Bot
 ```bash
 > pkg update && pkg upgrade
 > pkg install git
-> pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/QueenNoviii/Novi/
+> pkg install nodejs
+> git clone https://github.com/QueenNoviii/Novi
 > cd QueenNoviii
-> instal npm
+> nmp i
+> node index.js
 ``` 
 > simpul. [ < nama sesi > ] (nama sesi adalah opsional)
 
