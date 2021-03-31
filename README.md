@@ -9,12 +9,10 @@ Simple WhatsApp Bot
 > pkg install ffmpeg
 > pkg install imagemagick
 > git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
-> npm install
-```
-###### Run
-```bash
-> node . [<session name>] (session name is optional)
+> cdQueenNoviii
+> instal npm
+pesta
+> simpul. [<nama sesi>] (nama sesi adalah opsional)
 ```
 
 ---------
